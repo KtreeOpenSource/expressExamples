@@ -29,10 +29,10 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expressMongoDB.git
+   git clone https://github.com/KtreeOpenSource/expressExamples.git
 2. Navigate to the project directory:
     ```bash
-   cd expressMongoDB
+   cd expressExamples/MongoDB
 3. Install dependencies
      ```bash
    npm install
