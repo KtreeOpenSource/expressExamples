@@ -36,13 +36,13 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expressFirebase.git
+   git clone https://github.com/KtreeOpenSource/expressExamples.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd expressFirebase
+   cd expressExamples/Firebase
    ```
 
 3. Install dependencies:
